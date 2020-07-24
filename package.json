@@ -1,0 +1,31 @@
+{
+  "name": "training-program",
+  "version": "1.0.0",
+  "description": "training program",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "li zhiyang",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^4.4.1",
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "clipboard-copy": "^3.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "verification-code": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.6.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}

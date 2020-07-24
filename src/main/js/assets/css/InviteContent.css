@@ -1,0 +1,13 @@
+.inviteTitle {
+    font-size: 2rem;
+    color: mediumvioletred;
+    text-align: center;
+}
+
+.inviteRemainTime {
+    text-align: center;
+}
+
+.inviteHelpButton {
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+.userPromotionCardDiv img {
+    max-width: 100%;
+}
+
+.userPromotionCardNameDiv {
+    text-align: center;
+    font-weight: bold;
+}
+
+.drawCardTimes {
+    font-weight: bold;
+}
+
+.notGotCard {
+    filter: opacity(0.25);
+}
+
+.joinedDrawCard {
+    display: flex;
+    align-items: center;
+}
+
+.joinedDrawCard h3 {
+    margin-right: 20px;
+    margin-bottom: 0;
+}
+
+.modalCardNameDiv {
+    text-align: center;
+    font-weight: bold;
+}
+
+.modalImgDiv {
+    height: 200px;
+    text-align: center;
+}
+
+.modalImgDiv img {
+    max-height: 100%;
+}

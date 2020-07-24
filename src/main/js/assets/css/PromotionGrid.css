@@ -1,0 +1,23 @@
+.indexPromotionImg {
+    width: 100%;
+    height: 200px;
+}
+
+.indexPromotionTitleDiv {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+/* .promotionGridCol {
+    display: flex;
+    flex-direction: column;
+}
+
+.indexPromotionImgDiv {
+    flex: auto;
+}
+
+.indexPromotionTitleDiv {
+    flex: none;
+    text-align: center;
+} */

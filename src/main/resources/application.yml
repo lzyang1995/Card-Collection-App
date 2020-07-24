@@ -1,0 +1,15 @@
+spring:
+    datasource:
+        url: jdbc:h2:mem:test_mem
+        username: sa
+        password: password
+        sqlScriptEncoding: UTF-8
+    h2:
+        console:
+            enabled: true
+    jpa:
+        hibernate:
+            ddl-auto: none
+    data:
+        rest:
+            base-path: /api

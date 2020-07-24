@@ -1,0 +1,43 @@
+.promotionImg {
+    padding-right: 20px;
+    flex: 2 1 0;
+}
+
+.promotionDescription {
+    flex: 3 1 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.promotionRule {
+    flex-grow: 1;
+}
+
+.promotionChildren button {
+    display: inline-block;
+}
+
+.promotionChildren p {
+    display: inline-block;
+    color: red;
+    margin-left: 20px;
+}
+
+.promotionImg img {
+    height: 100%;
+    width: 100%;
+}
+
+.promotionCardImg img {
+    max-width: 100%;
+}
+
+.promotionSketch {
+    display: flex;
+    height: 250px;
+}
+
+.promotionCardName {
+    text-align: center;
+    font-weight: bold;
+}
