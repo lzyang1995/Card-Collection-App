@@ -1,6 +1,6 @@
 # Card-Collection-App
 
-This is a card collection app completed during intership at CMB. The backend uses Maven, Spring, Thymeleaf as well as many extentions including Spring Boot, Spring Data JPA, and Spring Data Rest. The frontend uses React, Webpack and Ant Design UI framework. The database here is H2 in-memory database for easy prototyping. 
+This is a card collection app completed during intership at CMB. The backend uses Maven, Spring, Thymeleaf as well as many extentions including Spring Boot, Spring Data JPA, and Spring Data Rest. The frontend uses React, Webpack and Ant Design UI framework. As for the database, I originally use MySQL, but have changed it to H2 in-memory database here for easy prototyping. 
 
 ## How to Build
 
