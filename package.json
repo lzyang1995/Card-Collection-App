@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^4.4.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bcryptjs": "^2.4.3",
     "clipboard-copy": "^3.1.0",
     "react": "^16.13.1",
